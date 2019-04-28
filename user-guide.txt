@@ -1,6 +1,6 @@
 User Guide: 
 
-1-Open Hard on teh Gas folder, then open another Hard on the Gase foler then lastly the unity file of the game “Trial 1”
+1-Open Hard on teh Gas folder, then open another Hard on the Gase foler then lastly the unity file of the game â€œTrial 1â€
 2-If not already sign in, sign in to oculus account, and connect the following peripherals:
   a)Oculus Rift Head Mounted Display
   b)Sensor, facing the position of the user
