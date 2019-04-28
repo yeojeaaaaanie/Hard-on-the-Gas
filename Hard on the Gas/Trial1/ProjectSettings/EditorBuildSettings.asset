@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Final Game/Normal.unity
+    guid: 39dd73fe576aa7f46b6735a5fa664b0e
+  - enabled: 1
+    path: Assets/Final Game/Home.unity
+    guid: f5f81fb348458b940b229135c65050ab
+  - enabled: 1
+    path: Assets/Final Game/Drunk.unity
+    guid: ac07fd4c541494ce6b2f5d2f020d3ffc
+  - enabled: 1
+    path: Assets/Final Game/Rainy.unity
+    guid: afaeff6e14c094b5f9456d7d3c03c218
+  - enabled: 1
+    path: Assets/Final Game/Sandstorm.unity
+    guid: a86d3b0a360164cc493435846ab90f8a

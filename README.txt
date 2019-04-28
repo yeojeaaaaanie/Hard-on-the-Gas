@@ -1,0 +1,20 @@
+User Guide: 
+
+1-Open Hard on teh Gas folder, then open another Hard on the Gase foler then lastly the unity file of the game “Trial 1”
+2-If not already sign in, sign in to oculus account, and connect the following peripherals:
+  a)Oculus Rift Head Mounted Display
+  b)Sensor, facing the position of the user
+  c)Xbox controller
+  d)An Oculus hand-held remote.
+3-Enable oculus Rift on Unity.
+4-Press the play button to Start ht egame.
+5-This bring you to a menu page with driving condition options, normal, Rain, SandStorm and Drunk mode. (p.s. If you want to exit the game, press the exit button)
+6-Please select one of the 4 driving condition options depending on your need. 
+7-Use the stick on the left side of the controller for car movement. Push front to move forward, push back to move backwards, push right to move right wards and push left to move leftward. 
+8-Drive along the track for 1, until you reach a red and black striped obstacle. The following are a few points to take into consideration while driving in certain conditions:
+  a)The brake distance of a car doubles on wet roads.
+  b)You will have less control of the car at high speeds.
+  c)Vision is compromised in weather condition such as sand storm or rain
+  d)Stability of a car decrease, and vision is impaired while driving under the influence.
+9-Every time you bump into an obstacle, 5 points are deducted.
+10-Click the home button to go back to the option page.
